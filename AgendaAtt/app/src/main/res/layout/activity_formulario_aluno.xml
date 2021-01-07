@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/activity_formulario_aluno_nome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:hint="@string/nome"
+            android:fontFamily="sans-serif-light"
+            android:inputType="textPersonName"
+            android:importantForAutofill="no" />
+
+        <EditText
+            android:id="@+id/activity_formulario_aluno_telefone_fixo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:hint="@string/telefone_fixo"
+            android:fontFamily="sans-serif-light"
+            android:inputType="phone"
+            android:importantForAutofill="no" />
+
+        <EditText
+            android:id="@+id/activity_formulario_aluno_telefone_celular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:hint="@string/telefone_celular"
+            android:fontFamily="sans-serif-light"
+            android:inputType="phone"
+            android:importantForAutofill="no" />
+
+        <EditText
+            android:id="@+id/activity_formulario_aluno_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:hint="@string/email"
+            android:fontFamily="sans-serif-light"
+            android:inputType="textEmailAddress"
+            android:importantForAutofill="no" />
+
+        </LinearLayout>
+</ScrollView>
