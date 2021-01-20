@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebService.iml" filepath="$PROJECT_DIR$/.idea/modules/WebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebService.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebService.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agenda.iml" filepath="$PROJECT_DIR$/agenda.iml" />
+    </modules>
+  </component>
+</project>

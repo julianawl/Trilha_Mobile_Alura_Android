@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626399414468",
+    "project_id": "agenda-sync-5fcb7",
+    "storage_bucket": "agenda-sync-5fcb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626399414468:android:1d0b900e8a17bf0cc9a191",
+        "android_client_info": {
+          "package_name": "br.com.alura.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626399414468-3rffnfa20g8ag3jeiignhdbic7vi1n38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0ZpKpEcDNRr4XDwgVySmDqJwIbkkiB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626399414468-3rffnfa20g8ag3jeiignhdbic7vi1n38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
