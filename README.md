@@ -3,6 +3,7 @@
 #### Esta mesma app foi utilizada para a aplicação de fragments no projeto.
 #### :exclamation: O servidor utilizado está na pasta "*servidor*"
 #### :exclamation: Não esqueça de alterar o *BASE_URL* no AppRetrofit.kt
+#### :exclamation: Esta app foi desenvolvida em Kotlin
 #### Esta app foi desenvolvida com os cursos:
 1. Architecture Components: ViewModel, LiveData e Room
 2. Android Fragments: Reutilizando componentes visuais
