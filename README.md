@@ -15,7 +15,7 @@ private const val BASE_URL = "insert your IP and door here"
 #### This app was developed with the course:
 1. Architecture Components: ViewModel, LiveData and Room
 
-##How to use
+## How to use
 #### The used server is in servidor folder
 #### It's necessary to change the BASE_URL in the AppRetrofit class
 
