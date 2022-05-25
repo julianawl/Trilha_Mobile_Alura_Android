@@ -18,17 +18,3 @@ retrofit = new Retrofit.Builder()
 ````
 
 ###### :pushpin: Os cursos realizados foram gravados em 2016 utilizando a versão 2.3 do Android Studio e o SDK 23 do Android, com algumas atualizações feitas em 2018. Atualmente os cursos se encontram como desabilitados
-
-## English
-#### In this branch the necessary methods were implemented to make the connection between the agenda app and a web service. In th app we can add, edit and remove students from the agenda both in the server and in the app. For the upgrades we used: Retrofit, Firebase Cloud Messaging and EventBus.
-
-#### This app was made with the courses:
-1. Android with Web Service part 1: Synchronize your app with the server
-2. Android with Web Service part 2: More synchronization techniques
-3. Android with Web Service part 3: Offline mode sincronization
-
-## How to use
-#### The used server is in the _servidor_web_ folder
-#### It's necessary to change the _base_url_ in RetrofitInicializador.java
-
-###### :pushpin: The courses made were recorded in 2016 using the 2.3 Android Studio and Android 23 SDK, with some upgrades made in 2018. Now, the courses are disabled.
